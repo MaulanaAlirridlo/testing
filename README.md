@@ -1,11 +1,10 @@
 # testing
 
-halo alif yang ngubah <br>
-Halo Faros Juga Belajar Make github
-halo anju selanjutnya <br>
-Maulana ikutan
-<br>anggun gk paham hey </br>
-
+ <br> Halo Alif yang ngubah
+ <br> Halo Faros Juga Belajar Make github
+ <br> Halo Anju selanjutnya <br>
+ <br> Maulana ikutan
+ <br> Anggun gk paham hey
 
 ## Subheader 
 
