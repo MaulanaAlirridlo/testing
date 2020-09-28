@@ -2,7 +2,7 @@
 
  <br> Halo Alif yang ngubah
  <br> Halo Faros Juga Belajar Make github
- <br> Halo Anju selanjutnya <br>
+ <br> Halo Anju selanjutnya
  <br> Maulana ikutan
  <br> Anggun gk paham hey
 
