@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Data Kasir</title>
+  </head>
+  <body>
+    <center>
+      <form action="hasil.html">
+        <h1>FORM DATA KASIR</h1>
+        <table>
+          <tr>
+            <td>ID KASIR</td>
+            <td>:</td>
+            <td><input type="text" placeholder="ID"></td>
+          </tr>
+          <tr>
+            <td>NAMA KASIR</td>
+            <td>:</td>
+            <td><input type="text" placeholder="NAMA"></td>
+          </tr>
+          <tr>
+            <td>ALAMAT KASIR</td>
+            <td>:</td>
+            <td>
+              <select name="alamat" id="alamat">
+                <option value="JEMBER">JEMBER</option>
+                <option value="MALANG">MALANG</option>
+                <option value="LONDON">LONDON</option>
+                <option value="TOKYO">TOKYO</option>
+                <option value="SAN ANDREAS">SAN ANDREAS</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>TELEPON KASIR</td>
+            <td>:</td>
+            <td><input type="text" placeholder="TELP"></td>
+          </tr>
+          <tr>
+            <td>STATUS</td>
+            <td>:</td>
+            <td>
+              <input type="radio" name="jk" id="jk-pria" value="PRIA">
+              <label for="jk-pria">PRIA</label>
+              <input type="radio" name="jk" id="jk-wanita" value="WANITA">
+              <label for="jk-pria">WANITA</label>
+            </td>
+          </tr>
+          <tr>
+            <td>USERNAME</td>
+            <td>:</td>
+            <td><input type="text" placeholder="User Name"></td>
+          </tr>
+          <tr>
+              <td>PASSWORD</td>
+              <td>:</td>
+              <td><input type="password" name="password" id="password" placeholder="PASSWORD"></td>
+          </tr>
+          <tr>
+            <td>
+                <input type="submit" value="Kirim">
+            </td>
+          </tr>
+        </table>
+      </form>
+    </center>
+  </body>
+</html>
