@@ -1,0 +1,77 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: "Raleway";
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box; 
+}
+.full-width {
+    width: 100%;
+    box-sizing: border-box; 
+}
+.half-width {
+    width: 50%;
+    box-sizing: border-box; 
+}
+a{
+    color: black;
+}
+.clear{
+    clear: both;
+}
+/* navigation */
+nav h3, nav ul{
+    display: inline-block;
+}
+nav ul{
+    float: right;
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+/* home */
+.home{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: gray; */
+}
+
+
+/* about */
+.about{
+    height: auto;
+}
+.small-picture{
+    max-width: 100%;
+}
+.small-picture img{
+    max-width: 32%;
+    border: 2%;
+}
+
+.about .text{
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.contact{
+    height: 300px;
+}
+
+/* footer */
+
+.footer{
+    background-color: darkgrey;
+    height: 100px;
+}

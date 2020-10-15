@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/index.css">
+    <title>Form Data Kasir</title>
+  </head>
+  <body>
+    <div class="form">
+      <form action="./hasil.html">
+        <h1>Form Data Kasir</h1>
+        <table cellpadding="10">
+          <tr>
+            <td>Id Kasir</td>
+            <td>:</td>
+            <td><input type="text" placeholder="Id" /></td>
+          </tr>
+          <tr>
+            <td>Nama Kasir</td>
+            <td>:</td>
+            <td><input type="text" placeholder="Nama" /></td>
+          </tr>
+          <tr>
+            <td>Alamat Kasir</td>
+            <td>:</td>
+            <td>
+              <select name="alamat" id="alamat">
+                <option value="San Aandreas">San Aandreas</option>
+                <option selected value="Jember">Jember</option>
+                <option value="Malang">Malang</option>
+                <option value="London">London</option>
+                <option value="Tokyo">Tokyo</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>Telepon Kasir</td>
+            <td>:</td>
+            <td><input type="text" placeholder="Telepon" /></td>
+          </tr>
+          <tr>
+            <td>Staus</td>
+            <td>:</td>
+            <td>
+              <input type="radio" name="jk" id="jk-pria" value="Pria" />
+              <label for="jk-pria">Pria</label>
+              <input type="radio" name="jk" id="jk-wanita" value="Wanita" />
+              <label for="jk-wanita">Wanita</label>
+            </td>
+          </tr>
+          <tr>
+            <td>Username</td>
+            <td>:</td>
+            <td><input type="text" placeholder="Username" /></td>
+          </tr>
+          <tr>
+            <td>Password</td>
+            <td>:</td>
+            <td>
+              <input
+                type="password"
+                name="password"
+                id="password"
+                placeholder="Password"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <input type="submit" value="Kirim" />
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+  </body>
+</html>
