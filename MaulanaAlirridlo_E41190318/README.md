@@ -1,7 +1,9 @@
-"
 Nama  : Maulana Alirridlo
+<br />
 Nim   : E41190318
+<br />
 Prodi : TIF 19
+<br />
 Gol   : A
 
 Daftar Isi tugas
@@ -21,4 +23,3 @@ Tugas 3
 Tugas 4 Pengenalan PHP dan Bootstrap
   - web_bootstrap
   - Laporan.pdf
-"
