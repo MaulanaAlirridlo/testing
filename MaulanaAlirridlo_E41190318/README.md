@@ -25,3 +25,7 @@ Tugas 3
 Tugas 4 Pengenalan PHP dan Bootstrap
   - web_bootstrap
   - Laporan.pdf
+
+Tugas 5 Belajar PHP
+  - belajar_php
+  - Laporan.pdf
