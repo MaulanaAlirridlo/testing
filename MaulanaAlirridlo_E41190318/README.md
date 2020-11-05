@@ -29,3 +29,7 @@ Tugas 4 Pengenalan PHP dan Bootstrap
 Tugas 5 Belajar PHP
   - belajar_php
   - Laporan.pdf
+
+Tugas 6 Praktek Blok
+  - Perbaruan web_bootstrap dari Tugas 4 dengan menambah login
+  - Praktek Blok
