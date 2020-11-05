@@ -1,32 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>
-        body {font-family: Tahoma;}
-        header {
-        background-color: #333;
-        padding: 1px;
-        text-align: center;
-        font-size: 50px;
-        color: white;
-        }
+  <style>
+    body {font-family: Tahoma;}
+    header {
+    background-color: #333;
+    padding: 1px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    }
 
-        nav {
-        float: left;
-        width: 20%;
-        height: 300px; 
-        background: #ddd;
-        padding: 20px;
-        }
+    nav {
+    float: left;
+    width: 20%;
+    height: 300px; 
+    background: #ddd;
+    padding: 20px;
+    }
 
-        article {
-        float: left;
-        padding: 20px;
-        width: 80%;
-        background-color: #f1f1f1;
-        height: 600px; 
-        }
-      </style>
+    article {
+    float: left;
+    padding: 20px;
+    width: 80%;
+    background-color: #f1f1f1;
+    height: 600px; 
+    }
+  </style>
 </head>
 <body>
     <form action="sukses.html" method="get">
@@ -39,9 +39,9 @@
 <section>
   <nav>
     <ul>
-      <li><a href="#">Form Mahasiswa</a></li>
-      <li><a href="#">Form Dosen</a></li>
-      <li><a href="#">Data Mahasiswa</a></li>
+      <li><a href="#" target="isi">Form Mahasiswa</a></li>
+      <li><a href="#" target="isi">Form Dosen</a></li>
+      <li><a href="#" target="isi">Data Mahasiswa</a></li>
       </ul>
   </nav>
 </section>
@@ -61,7 +61,7 @@
                 <tr>
                     <td>NAMA</td>
                     <td>:</td>
-                    <td><input  type="text"  ></td>
+                    <td><input  type="text" pattern="[a-zA-Z]{1,15}"  ></td>
                 </tr>
 
                 <tr>
