@@ -28,3 +28,7 @@ TUGAS 6
 TUGAS 7
 - lanjutan dari tugas 4
 - membuat login dengan session
+
+TUGAS 8
+- CRUD
+- Resume CRUD
