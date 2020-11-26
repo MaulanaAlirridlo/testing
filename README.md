@@ -8,3 +8,6 @@ Anggota <br>
 - Naufal Farros				/ E41190550	/ Golongan A<br>
 - Maulana Alirridlo 		/ E41190318	/ Golongan A<br>
 - Anggun Wasilina Mutrifani	/ E41190125	/ Golongan A<br>
+
+# Project
+https://github.com/MaulanaAlirridlo/natsa
