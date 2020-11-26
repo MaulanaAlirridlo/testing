@@ -1,0 +1,17 @@
+html{
+    font-family: sans-serif;
+}
+table {
+    border-collapse: collapse;
+  }
+th, td {
+    padding: 2px 5px;
+}
+.container{
+    width : 80%;
+    margin: 0 auto;
+}
+
+.full-width{
+    width: 100%;
+}
