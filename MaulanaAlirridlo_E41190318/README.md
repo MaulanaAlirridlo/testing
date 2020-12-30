@@ -37,3 +37,7 @@ Tugas 6 Praktek Blok
 Tugas 7 CRUD
 - crud_web
 - Laporan.pdf
+
+Tugas 7 CRUD
+- meangubah login menjadi pemanggilan data dari database.
+- Laporan.pdf
